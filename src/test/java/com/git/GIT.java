@@ -12,4 +12,16 @@ public class GIT {
 		System.out.println("3");
 	}
 
+	
+	public void class4() {
+		System.out.println("4");
+	}
+	
+	public void class5() {
+		System.out.println("5");
+	}
+	public void class6() {
+		System.out.println("6");
+	}
 }
+ 
