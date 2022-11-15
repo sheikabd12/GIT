@@ -23,5 +23,15 @@ public class GIT {
 	public void class6() {
 		System.out.println("6");
 	}
+	public void class7() {
+		System.out.println("4");
+	}
+	public void class8() {
+		System.out.println("4");
+	}
+	public void class9() {
+		System.out.println("4");
+	}
+	
 }
  
